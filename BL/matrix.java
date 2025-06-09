@@ -20,7 +20,7 @@ public class Solution {
                     dist[i][j] = 0;
 
                 }
-            }
+            } 
         }
 
         int[][] dir = {{-1,0},{1,0},{0,-1},{0,1}}
